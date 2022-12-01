@@ -18,4 +18,3 @@ for i in range(len(all_hosts)):
 
 
 
-#https://www.opentechguides.com/how-to/article/python/57/python-ping-subnet.html
